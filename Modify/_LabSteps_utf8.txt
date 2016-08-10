@@ -1,4 +1,4 @@
-﻿本練習為 HTML5 遊戲習作，原創作者為 Aditya Ravi Shankar，作品網址:
+本練習為 HTML5 遊戲習作，原創作者為 Aditya Ravi Shankar，作品網址:
 http://www.adityaravishankar.com/2011/10/html5-game-development-tutorial-breakout-i-introduction-to-canvas/
 
 
